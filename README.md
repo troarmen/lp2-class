@@ -1,6 +1,7 @@
 # LP2 IFSP
 
-Repositório para organizar os códigos da disciplina de Linguagem de Programação 2.
+Repositório para organizar os códigos da disciplina de Linguagem de Programação 2. 
+O repositório NÃO contém toda a matéria da disciplina. Sua continuação encontra-se em: github.com/troarmen/lp2-jsp
 
 ## Instruções Lab de informática
 
